@@ -1,0 +1,13 @@
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/repository/RoleRepository.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/web/UserController.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/service/SecurityServiceImpl.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/model/User.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/repository/UserRepository.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/service/UserService.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/WebSecurityConfig.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/model/Role.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/service/UserDetailsServiceImpl.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/WebApplication.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/validator/UserValidator.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/service/SecurityService.java
+/Users/ialtoubah/Desktop/MovieApp/src/main/java/com/hellokoding/auth/service/UserServiceImpl.java
